@@ -1,6 +1,6 @@
 # CPU vs GPU Simulation using Multithreading with Performance Optimization
 
-> **A production-grade Java system** that simulates GPU-style parallel computation using CPU threads, with tiled memory optimization, performance analysis, and CSV export — strong enough for NVIDIA-level interviews.
+> **A production-grade Java system** that simulates GPU-style parallel computation using CPU threads, with tiled memory optimization, performance analysis, and CSV export 
 
 ---
 
@@ -398,4 +398,4 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-*Built to demonstrate HPC concepts: parallelism, cache optimization, and performance engineering — the core skills tested at NVIDIA, Intel, AMD, and GPU software engineering roles.*
+**Built with Love By Likhitha **
